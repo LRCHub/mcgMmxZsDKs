@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ちいさな冒険者",
+  "base_artist": "アクア (CV: 雨宮 天)、めぐみん (CV: 高橋李依)、ダクネス (CV: 茅野愛衣)",
+  "createdAt": "2026-02-08T14:38:41.919727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -アクア ver.-",
+      "artist": "アクア (CV: 雨宮天)",
+      "has_synced": true,
+      "path": "select/01_ちいさな冒険者_-アクア_ver.-_アクア_(CV__雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -アクア ver.- [ORT]",
+      "artist": "アクア(CV:雨宮天)",
+      "has_synced": true,
+      "path": "select/02_ちいさな冒険者_-アクア_ver.-_[ORT]_アクア(CV_雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -ダクネス ver.-",
+      "artist": "ダクネス (CV: 茅野愛衣)",
+      "has_synced": true,
+      "path": "select/03_ちいさな冒険者_-ダクネス_ver.-_ダクネス_(CV__茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -ダクネス ver.- [ORT]",
+      "artist": "ダクネス(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/04_ちいさな冒険者_-ダクネス_ver.-_[ORT]_ダクネス(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ちいさな冒険者",
+      "artist": "アクア (CV: 雨宮天)、めぐみん (CV: 高橋李依)、ダクネス (CV: 茅野愛衣)",
+      "has_synced": true,
+      "path": "select/05_ちいさな冒険者_アクア_(CV__雨宮天)、めぐみん_(CV__高橋李依)、ダクネス_(CV__茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 [ORT]",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/06_ちいさな冒険者_[ORT]_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ちいさな冒険者",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/07_ちいさな冒険者_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ちいさな冒険者",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/08_ちいさな冒険者_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -めぐみん ver.-",
+      "artist": "めぐみん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/09_ちいさな冒険者_-めぐみん_ver.-_めぐみん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -カズマ Ver.-",
+      "artist": "カズマ (CV:福島潤)",
+      "has_synced": false,
+      "path": "select/10_ちいさな冒険者_-カズマ_Ver.-_カズマ_(CV_福島潤).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -ダクネス ver.-",
+      "artist": "ダクネス(CV:茅野愛衣)",
+      "has_synced": true,
+      "path": "select/11_ちいさな冒険者_-ダクネス_ver.-_ダクネス(CV_茅野愛衣).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -アクア ver.-",
+      "artist": "アクア(CV:雨宮天)",
+      "has_synced": true,
+      "path": "select/12_ちいさな冒険者_-アクア_ver.-_アクア(CV_雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ちいさな冒険者",
+      "artist": "Humbert Humbert",
+      "has_synced": true,
+      "path": "select/13_ちいさな冒険者_Humbert_Humbert.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -めぐみん ver.- [ORT]",
+      "artist": "めぐみん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/14_ちいさな冒険者_-めぐみん_ver.-_[ORT]_めぐみん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ちいさな冒険者 -ダクネス ver.-",
+      "artist": "アクア",
+      "has_synced": true,
+      "path": "select/15_ちいさな冒険者_-ダクネス_ver.-_アクア.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちいさな冒険者",
+      "artist": "アクア(CV:雨宮天)、めぐみん(CV:高橋李依)、ダクネス(CV:茅野愛衣)",
+      "has_synced": false,
+      "path": "select/pl_01_ちいさな冒険者_アクア(CV_雨宮天)、めぐみん(CV_高橋李依)、ダクネス(CV_茅野愛衣).txt"
+    }
+  ]
+}
